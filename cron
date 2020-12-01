@@ -1,0 +1,1 @@
+*/5 * * * * root /home/user/checkUPS.sh >> /var/log/checkUPS.log
